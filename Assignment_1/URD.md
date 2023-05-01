@@ -140,3 +140,31 @@
 | Secondary actors:             | Support Representative                                                                                                                                                                             |
 | Channels to secondary actors: | Email, Phone, Chat.                                                                                                                                                                                |
 | Open issues:                  | The system should provide a way for the user to escalate their query if they are not satisfied with the support provided by the representative.                                                    |
+
+# Receipt Download from the portal
+
+| **Use-case:**                 | Receipt Download from the portal                                                                                                                                            |
+|-------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Primary actor:**            | Registered User                                                                                                                                                             |
+| Goal in context:              | To obtain a receipt for the room booked on the OYO portal.                                                                                                                  |
+| Preconditions:                |                                                                                                                                                                             |
+| (i)                           | The user has already registered on the OYO portal.                                                                                                                          |
+| (ii)                          | The user is currently logged in to their account.                                                                                                                           |
+| (iii)                         | The user has successfully booked a room on the OYO portal.                                                                                                                  |
+| Trigger:                      | User clicks on the "Get Receipt" or "Download Receipt" button on the booking confirmation page.                                                                             |
+| Scenario:                     |                                                                                                                                                                             |
+| (i)                           | The system displays a receipt for the room booking that includes details such as the room type, booking dates, payment details, and taxes.                                  |
+| (ii)                          | The user can download the receipt in a printable or PDF format.                                                                                                             |
+| (iii)                         | If the user faces any issues in obtaining the receipt, they can click on the "Need Help?" or "Contact Support" button on the receipt page to get support from the OYO team. |
+| Expectations:                 |                                                                                                                                                                             |
+| (i)                           | The system should generate a clear and accurate receipt for the room booking.                                                                                               |
+| (ii)                          | The receipt should include all relevant details related to the booking such as room type, booking dates, payment details, and taxes.                                        |
+| (iii)                         | The user should be able to easily download the receipt in a printable or PDF format.                                                                                        |
+| (iv)                          | If the user faces any issues in obtaining the receipt, they should be able to easily contact the OYO support team for assistance.                                           |
+| Priority:                     | Medium                                                                                                                                                                      |
+| When available:               | 24/7.                                                                                                                                                                       |
+| Frequency of use:             | As per user's need                                                                                                                                                          |
+| Channel to actor:             | Email, Phone, Chat                                                                                                                                                          |
+| Secondary actors:             | Support Representative                                                                                                                                                      |
+| Channels to secondary actors: | Email, Phone, Chat.                                                                                                                                                         |
+| Open issues:                  | None.                                                                                                                                                                       |

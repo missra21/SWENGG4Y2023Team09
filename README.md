@@ -15,7 +15,3 @@
 
 OYO is a hospitality company that operates a network of budget hotels, homes, and living spaces across various countries. The core business of OYO is to provide affordable and quality accommodation to travelers and guests. One of the key features of OYO's business model is its technology platform, which enables efficient management of inventory, bookings, and pricing across the network of hotels and homes. This platform also facilitates communication and collaboration between OYO and its partner hotels, enabling real-time updates on availability, pricing, and guest feedback.
 
-## Documents
-### Stakeholder Document - [Here](Assignment_1/Stakeholders.md)
-### User requirements document/ System Definition document - [Here](Assignment_1/URD.md)
-### SRS Document  - [Here](Assignment_1/SRS.md)

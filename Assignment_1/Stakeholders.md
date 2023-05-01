@@ -105,7 +105,8 @@ impacted by it, but their involvement may not be immediately apparent or recogni
 
 > This group of stakeholders includes insurers who may provide coverage for losses or damages related to the OYO booking
 > system, such as cyber liability insurance. They have a vested interest in the system's security and risk management
-> practices, as well as in its ability to minimize the likelihood and impact of data breaches or other security incidents.
+> practices, as well as in its ability to minimize the likelihood and impact of data breaches or other security
+> incidents.
 
 #### 2. Business Partners
 

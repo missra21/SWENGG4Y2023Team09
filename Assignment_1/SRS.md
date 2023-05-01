@@ -158,3 +158,128 @@ The user classes for the OYO hotel booking system include:
    wheelchair accessibility, grab bars, or medical facilities. They may also prioritize quieter accommodations, choosing
    hotels with low noise levels and comfortable bedding.
 
+
+### User classifications from the Hotel side
+
+1. **Hotel Managers:** Hotel managers are a key user class for the OYO hotel booking system. They use the system to
+   manage room inventory, pricing, and promotions, and to monitor bookings and revenue. They may also use the system to
+   communicate with guests, manage staff, and access reports and analytics.
+
+2. **Housekeeping Staff:** Housekeeping staff are another important user class for the OYO hotel booking system. They
+   use the system to manage room cleaning schedules, track room status and inventory, and communicate with other staff
+   members. They may also use the system to report maintenance issues or request supplies.
+
+3. **Front Desk Staff:** Front desk staff are a critical user class for the OYO hotel booking system. They use the
+   system to check-in and check-out guests, manage room allocations and changes, and process payments and refunds. They
+   may also use the system to manage guest requests and complaints, and to provide local recommendations and
+   information.
+
+4. **Marketing and Sales Teams:** Marketing and sales teams are important user classes for the OYO hotel booking system,
+   particularly for larger hotels or hotel chains. They use the system to manage promotions and discounts, track
+   customer acquisition and retention, and analyze market trends and customer behavior. They may also use the system to
+   communicate with customers and manage social media and advertising campaigns.
+
+5. **IT and Support Staff:** IT and support staff are a key user class for the OYO hotel booking system. They use the
+   system to manage technical issues and system updates, provide user support and training, and ensure data security and
+   privacy. They may also use the system to develop custom features or integrations and to troubleshoot system errors or
+   bugs.
+
+## 2.4. Operating Environment
+
+The OYO hotel booking system will be web-based and will be accessible through modern web browsers on desktop and mobile
+devices.
+
+- **Hardware Requirements:** The OYO hotel booking system can be accessed via a web browser or mobile application. For
+  optimal performance, it is recommended that users have a device with at least 4GB of RAM, an internet connection with
+  a minimum speed of 5 Mbps, and a screen resolution of 1024x768 pixels or higher. The system is compatible with most
+  modern web browsers and mobile operating systems, including Windows, MacOS, iOS, and Android.
+- **Software Requirements:** The OYO hotel booking system is a web-based application that can be accessed via a web
+  browser or mobile application. To use the system, users must have a modern web browser such as Google Chrome, Mozilla
+  Firefox, or Apple Safari, with JavaScript enabled. The system does not require any additional software or plugins to
+  be installed on the user's device.
+- **Network Requirements**: The OYO hotel booking system requires an internet connection to operate. The system is
+  designed to be accessible from anywhere with an internet connection, and can be used on both wired and wireless
+  networks. It is recommended that users have a reliable internet connection with a minimum speed of 5 Mbps to ensure
+  smooth performance.
+
+## 2.5. Design and Implementation Constraints
+
+1. **Compatibility**: The OYO hotel booking system must be compatible with a wide range of hardware and software
+   systems, including various operating systems, web browsers, and mobile devices. This requires careful consideration
+   of
+   cross-platform compatibility and support for multiple devices and screen sizes.
+
+2. **Security**: The OYO hotel booking system must be designed to ensure the security and privacy of user data,
+   including personal information, payment details, and booking records. This requires implementation of secure
+   protocols for data
+   encryption, secure storage, and secure transmission of data.
+
+3. **Scalability**: The OYO hotel booking system must be designed to handle large volumes of traffic and data, and to
+   scale up or down as demand fluctuates. This requires consideration of cloud hosting and server infrastructure, and
+   the
+   ability to add or remove resources as needed.
+
+4. **Performance**: The OYO hotel booking system must be designed to provide fast and responsive performance, with
+   minimal latency and downtime. This requires careful optimization of code, database queries, and network performance,
+   as well
+   as implementation of caching and load balancing strategies.
+
+5. **Accessibility**: The OYO hotel booking system must be designed to be accessible to users with disabilities,
+   including visual impairments, hearing impairments, and mobility impairments. This requires implementation of
+   accessibility
+   features such as screen reader support, keyboard navigation, and color contrast settings.
+
+6. **Legal and Regulatory Requirements**: The OYO hotel booking system must comply with various legal and regulatory
+   requirements, including data protection laws, consumer protection laws, and payment processing regulations. This
+   requires careful consideration of legal and regulatory frameworks, and implementation of appropriate policies and
+   procedures to ensure compliance.
+
+## 2.6. User Documentation
+
+1. **User Manuals**: The OYO hotel booking system will provide user manuals that include step-by-step instructions on
+   how to use the system. The manuals will cover all key features of the system and will be available in both digital
+   and print formats.
+
+2. **Online Help Center**: The OYO hotel booking system will feature an online help center that provides users with
+   access to a wide range of support resources. The help center will include FAQs, troubleshooting guides, video
+   tutorials, and user forums.
+
+3. **Training Materials**: The OYO hotel booking system will offer training materials that are designed to help users
+   learn how to use the system effectively. The training materials will include interactive e-learning modules,
+   in-person training sessions, and webinars.
+
+4. **Release Notes**: The OYO hotel booking system will provide release notes for each new version of the software. The
+   release notes will outline new features, bug fixes, and other changes to the system, and will provide instructions on
+   how to use these new features.
+
+5. **Glossary**: The OYO hotel booking system will feature a glossary of key terms and concepts used in the system. The
+   glossary will help users understand the terminology used in the system and will provide definitions and explanations
+   for technical terms and jargon.
+
+6. **User Feedback**: The OYO hotel booking system will collect user feedback on an ongoing basis and will use this
+   feedback to improve the user documentation. Users will be able to submit feedback via a feedback form in the system
+   or through the help center.
+
+## 2.7. Assumptions and Dependencies
+
+### Assumptions:
+
+- Users will have internet access and a compatible device to access the OYO hotel booking system.
+- Users will provide accurate and complete information when booking a hotel room.
+- Hotels will provide accurate and up-to-date information about their room inventory, pricing, and amenities.
+- Users will agree to the terms and conditions of the OYO hotel booking system and the hotel they are booking with.
+- The OYO hotel booking system will comply with all relevant legal and regulatory requirements in each country where it
+  operates.
+
+### Dependencies:
+
+- The OYO hotel booking system depends on reliable internet connectivity and server infrastructure to operate
+  effectively.
+- The OYO hotel booking system may depend on third-party services or software, such as payment processors, mapping
+  software, or social media platforms, to function properly.
+- The OYO hotel booking system may depend on external factors, such as weather events, transportation disruptions, or
+  public health emergencies, which can affect hotel availability and user behavior.
+- The OYO hotel booking system may depend on the availability and quality of data provided by hotels, such as room
+  inventory and pricing, which can affect user satisfaction and revenue.
+- The OYO hotel booking system may depend on the ability of hotels to provide a satisfactory level of service and
+  amenities to users, which can affect user retention and reputation.

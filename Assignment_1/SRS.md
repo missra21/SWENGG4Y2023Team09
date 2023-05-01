@@ -282,3 +282,161 @@ devices.
   inventory and pricing, which can affect user satisfaction and revenue.
 - The OYO hotel booking system may depend on the ability of hotels to provide a satisfactory level of service and
   amenities to users, which can affect user retention and reputation.
+
+# 3. System Features
+
+## 3.1. Room Inventory Management
+
+The OYO hotel booking system should allow hotel managers to manage their room inventory in real-time. This includes
+adding or removing rooms, setting room types and capacities, and defining room rates and availability.
+
+## 3.2. Reservation Management
+
+The OYO hotel booking system should allow guests to make reservations online or through a mobile app. Hotel managers
+should be able to manage reservations in real-time, including checking availability, approving or rejecting
+reservations, and managing cancellations and modifications.
+
+## 3.3. Room Allocation and Assignment
+
+The OYO hotel booking system should allow hotel managers to allocate and assign rooms to guests based on their
+preferences and room availability. This includes assigning rooms with specific amenities, assigning rooms based on guest
+loyalty or special requests, and managing room changes or upgrades.
+
+## 3.4. Payment and Billing Management
+
+The OYO hotel booking system should allow guests to make payments online or through a mobile app. Hotel managers should
+be able to manage billing and invoicing in real-time, including setting prices and taxes, processing payments, and
+issuing refunds or cancellations.
+
+## 3.5. Guest Management
+
+The OYO hotel booking system should allow hotel managers to manage guest information in real-time. This includes
+tracking guest history, preferences, and special requests, managing loyalty programs, and communicating with guests
+through the system.
+
+## 3.6. Staff Management
+
+The OYO hotel booking system should allow hotel managers to manage staff information in real-time. This includes
+tracking staff schedules, managing staff assignments and tasks, and communicating with staff through the system.
+
+## 3.7. Reporting and Analytics
+
+The OYO hotel booking system should provide real-time reporting and analytics on key performance metrics such as
+occupancy rates, revenue, guest satisfaction, and staff productivity. Hotel managers should be able to access these
+reports through the system or through a mobile app.
+
+# 4. External Interface Requirements
+
+## 4.1 User Interfaces
+
+- The OYO hotel booking system should have a user-friendly and responsive web application that allows users to easily
+  search for and book hotels, view and modify bookings, and provide feedback and ratings.
+- The system should also have a mobile application that provides the same functionality as the web application and is
+  available on iOS and Android platforms.
+- The system should be compatible with popular web browsers such as Chrome, Safari, Firefox, and Edge.
+
+## 4.2 Hardware Interfaces
+
+- The OYO hotel booking system should be compatible with standard hardware such as desktops, laptops, tablets, and
+  smartphones.
+- The system should also be compatible with peripheral devices such as printers, scanners, and credit card readers.
+
+## 4.3 Software Interfaces
+
+- The OYO hotel booking system should integrate with popular payment gateways such as PayPal, Stripe, and Square to
+  enable
+  secure and convenient payment processing.
+- The system should also integrate with popular third-party applications such as Google Maps, social media platforms,
+  and
+  email marketing services to provide additional functionality and improve user experience.
+
+## 4.4 Communication Interfaces
+
+- The OYO hotel booking system should provide multiple channels for customer support, including email, phone, and live
+  chat.
+- The system should also integrate with messaging platforms such as WhatsApp and Facebook Messenger to enable real-time
+  communication with customers.
+- The system should support multiple languages and provide translation services for non-native speakers.
+
+# 5. Other Nonfunctional Requirements
+
+## 5.1. Performance Requirements
+
+1. **Response Time**: The system should respond to user requests within 3 seconds.
+2. **System Capacity**: The system should be able to handle up to 100,000 simultaneous users.
+3. **Search Time**: The system should provide search results within 5 seconds of the user's query.
+4. **System Availability**: The system should be available to users at least 99.99% of the time.
+5. **Scalability**: The system should be scalable to handle a growing number of users and requests.
+
+## 5.2. Safety Requirements
+
+1. **Fire Safety**: The system should be designed to comply with fire safety regulations and guidelines.
+2. **Health and Safety**: The system should be designed to promote the health and safety of hotel staff and guests.
+3. **Emergency Procedures**: The system should have emergency procedures in place in the event of a safety or security
+   incident.
+4. **Risk Assessment**: The system should undergo regular risk assessments to identify and mitigate potential safety
+   hazards.
+5. **Compliance**: The system should comply with relevant safety regulations and standards.
+
+## 5.3. Security Requirements
+
+1. **User Data Protection**: The system should protect user data from unauthorized access or disclosure.
+2. **Secure Authentication**: The system should use secure authentication protocols to prevent unauthorized access.
+3. **Secure Transactions**: The system should use secure transaction protocols to prevent fraudulent transactions.
+4. **Secure Network**: The system should be designed to prevent unauthorized access to the network infrastructure.
+5. **Compliance**: The system should comply with relevant security regulations and standards.
+
+## 5.4. Software Quality Attributes
+
+1. **Maintainability**: The system should be designed for ease of maintenance and future enhancements.
+2. **Reliability**: The system should be reliable and free from defects or errors.
+3. **Reusability**: The system should be designed for reuse of code and components.
+4. **Testability**: The system should be designed to be easily testable and verifiable.
+5. **Portability**: The system should be designed to be easily portable across different platforms and environments.
+
+# 6. Other Requirements
+
+### Legal Compliance
+
+- The system should comply with relevant laws and regulations related to online booking systems, such as the EU's
+  Package Travel Directive or the US Travel Promotion Act.
+- The system should comply with data protection laws, such as the General Data Protection Regulation (GDPR) or the
+  California Consumer Privacy Act (CCPA).
+- The system should comply with payment processing regulations, such as the Payment Card Industry Data Security
+  Standards (PCI DSS).
+
+### Multilingual Support
+
+- The system should support multiple languages to accommodate users from different regions and countries.
+- Users should be able to easily switch between languages without affecting their bookings or account information.
+- The system should also support multiple currencies, with currency conversion rates that are updated in real-time.
+
+### Integration with Third-Party Systems
+
+- The system should be designed to integrate with third-party systems, such as payment gateways, property management
+  systems, or customer relationship management (CRM) tools.
+- Integration should be seamless, with data flowing between systems in real-time.
+- The system should provide an open API (Application Programming Interface) that allows third-party developers to build
+  custom integrations.
+
+### Customizability
+
+- The system should be customizable to accommodate different hotel brand standards and business needs.
+- Hotel staff should be able to customize the look and feel of the booking pages, including logos, color schemes, and
+  images.
+- The system should also allow hotel staff to configure pricing and promotions, as well as customize reports and
+  analytics.
+
+### Mobile Responsiveness
+
+- The system should be mobile-friendly, with responsive design that adapts to different screen sizes and devices.
+- Users should be able to easily make bookings and manage their accounts from their mobile devices.
+- The system should also provide a mobile app that allows users to access the booking system on the go.
+
+### Support and Training
+
+- The system should be supported by a dedicated support team that can assist users with technical issues, user training,
+  and other inquiries.
+- User documentation and training materials should be provided to help users get up to speed quickly.
+- The system should also provide online help and support, including chatbots or virtual assistants that can answer
+  common user questions.
